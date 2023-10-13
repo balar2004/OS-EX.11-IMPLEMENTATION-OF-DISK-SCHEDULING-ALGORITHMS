@@ -38,7 +38,7 @@ int main() {
 }
 ```
 ## Output:
-
+![disk](https://github.com/balar2004/OS-EX.11-IMPLEMENTATION-OF-DISK-SCHEDULING-ALGORITHMS/assets/118791778/aca0292e-0b45-4611-afec-466ab9a06529)
 ## Result:
 Thus the implementation of the program for first come first serve disc scheduling has been
 successfully executed.
@@ -90,7 +90,7 @@ int main()
 }
 ```
 ## Output:
-
+![disk2](https://github.com/balar2004/OS-EX.11-IMPLEMENTATION-OF-DISK-SCHEDULING-ALGORITHMS/assets/118791778/574359f3-3b3a-4837-a906-697716eba448)
 ## Result:
 Thus the implementation of the program for shortest seek time first disc scheduling has been
 successfully executed.
@@ -181,7 +181,7 @@ int main()
 }
 ```
 ## Output:
-
+![disk3](https://github.com/balar2004/OS-EX.11-IMPLEMENTATION-OF-DISK-SCHEDULING-ALGORITHMS/assets/118791778/c4bc80ec-b022-4e05-8e84-8bb7509e61de)
 ## Result:
 Thus the implementation of the program for SCAN disc scheduling has been successfully executed.
 
@@ -265,6 +265,6 @@ int main()
 }
 ```
 # Output:
-
+![disk4](https://github.com/balar2004/OS-EX.11-IMPLEMENTATION-OF-DISK-SCHEDULING-ALGORITHMS/assets/118791778/137317b1-2841-4ff1-9799-454ac18a4e57)
 ## Result:
 Thus the implementation of the program for LOOK disc scheduling has been successfully executed.
